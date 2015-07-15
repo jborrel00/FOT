@@ -1,4 +1,4 @@
-#iber Optic Temperature Measurement
+#Fiber Optic Temperature Measurement
 ###Operation Instructions
 #####For OS X 10.7+
 
@@ -62,7 +62,11 @@ The tutorial will deal with the software and hardware prerequisites, equipment u
 *<picture>*
 * CoolTerm will now start collecting temperature data. This data will be displayed in CoolTerm's main terminal window and will be simultaneously captured and logged in the txt file that was created earlier.
 * The terminal readout in CoolTerm will show the measurements for each probe by displaying the number of that probe followed by the temperature reading
+
 >i.e - 1: 23.54 C	2: 24.23 C	etc...
+
 * If a reading is followed by C, then the data is being collected correctly and the reading is the measured temperature in celsius.
 * If a reading is followed by PE, then there is a collection error and the data displayed is incorrect
-> Calibration of the FOT device may sometimes be necessary. Further information on this as well as many other CoolTerm features can be found in the CoolTerm readme, which can be opened by selecting Help from the toolbar.
+
+>Calibration of the FOT device may sometimes be necessary. Further information on this as well as many other CoolTerm features can be found in the CoolTerm readme, which can be opened by selecting Help from the toolbar.
+
