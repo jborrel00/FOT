@@ -25,6 +25,7 @@ The tutorial will deal with the software and hardware prerequisites, equipment u
 *<Add an image of bag here>*
 >The main input hub is in a black Pelican case (permanent home TBD), which also contains the power cord for the device.
 *<Add an image of case here>*
+
 ###Setup Procedure
 * Remove the hub and power cables from the case and connect them accordingly
 *<picture>*
