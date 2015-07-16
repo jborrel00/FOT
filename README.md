@@ -37,7 +37,7 @@ The tutorial will deal with the software and hardware prerequisites, equipment u
 * This cable can only be connected in one orientation and is secured by a spring mechanism
 ![line38image](https://raw.githubusercontent.com/jborrel00/FOT/master/hardware_pictures/Line38.jpg "diagram of spring attachment mechanism")
 * When inserting the connecting cables, it is important to match the number of the cable (written on green tape) to the number of the input on the hub.
-![line40image](https://raw.githubusercontnet.com/jborrel00/FOT/master/hardware_pictures/Line40.jpg)
+![line40image](https://raw.githubusercontent.com/jborrel00/FOT/master/hardware_pictures/Line40.jpg)
 * The optical probes can now be removed from their cases and connected, taking great care not t crush or bend the probes
 * The probes are not numerically labeled and can be attached to any numbered cable.
 * The connection mechanism between the fiber optic probe and the cable has a flat surface on both components that must be aligned during connection in order to produce a complete connection. If the probe and cable are not connected in this manner, there is a strong chance the temperature data will not be collected or will be wrong.
