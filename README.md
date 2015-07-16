@@ -24,27 +24,28 @@ The tutorial will deal with the software and hardware prerequisites, equipment u
 >The optical cables themselves are kept in a white, Patient's Belongings bag (permanent home TBD). This bag also contains the cables that connect the probes to the data logger as well as the Serial to USB cable used to interface with the computer.
 ![line25image](https://raw.githubusercontent.com/jborrel00/FOT/master/hardware_pictures/Line25.jpg "Bag containing optical probes and connecting cables")
 >The main input hub is in a black Pelican case (permanent home TBD), which also contains the power cord for the device.
-*<Add an image of case here>*
+![line27image](https://raw.githubusercontent.com/jborrel00/FOT/master/hardware_pictures/Line27.jpg "Pelican case containing FOT hub and power cable")
 
 ###Setup Procedure
 * Remove the hub and power cables from the case and connect them accordingly
-*<picture>*
+![line31image](https://raw.githubusercontent.com/jborrel00/FOT/master/hardware_pictures/Line31.jpg "hub and power cables in case")
 * The power cord may be plugged into the hub at this time, but ensure the power swtich on the cord is in the "off" (o) position.
-*<picture>*
+![line33image](https://raw.githubusercontent.com/jborrel00/FOT/master/hardware_pictures/Line33.jpg "hub power with switch in off position")
 * The cable that connects the optical probes and the hub can now be connected
-*<picture>*
-*<picture>*
+![line35image](https://raw.githubusercontent.com/jborrel00/FOT/master/hardware_pictures/Line35.jpg "fiber optic connecting cable")
+![line36image](https://raw.githubusercontent.com/jborrel00/FOT/master/hardware_pictures/Line36.jpg "cable connected to hub")
 * This cable can only be connected in one orientation and is secured by a spring mechanism
-*<more pictures if needed>*
+![line38image](https://raw.githubusercontent.com/jborrel00/FOT/master/hardware_pictures/Line38.jpg "diagram of spring attachment mechanism")
 * When inserting the connecting cables, it is important to match the number of the cable (written on green tape) to the number of the input on the hub.
-*<picture>*
+![line40image](https://raw.githubusercontnet.com/jborrel00/FOT/master/hardware_pictures/Line40.jpg)
 * The optical probes can now be removed from their cases and connected, taking great care not t crush or bend the probes
 * The probes are not numerically labeled and can be attached to any numbered cable.
 * The connection mechanism between the fiber optic probe and the cable has a flat surface on both components that must be aligned during connection in order to produce a complete connection. If the probe and cable are not connected in this manner, there is a strong chance the temperature data will not be collected or will be wrong.
-*<pictures>*
+![line44-1image](https://raw.githubusercontent.com/jborrel00/FOT/master/hardware_pictures/Line44-1.jpg "the flat portion of the connecting cable")
+![line44-2image](https://raw.githubusercontent.com/jborrel00/FOT/master/hardware_pictures/Line44-2.jpg "flat portion of fiber optic probe that must match up with the flat portion of connecting cable, shown in the previous photo")
 * The FOT can accomodate up to 4 inputs, however, fewer optical probes may be connected, depending on the needs of your study.
 * After the probes are connected, connect the hub to your computer with the Serial to USB cable
-*<picture>*
+![line47image](https://raw.githubusercontent.com/jborrel00/FOT/master/hardware_pictures/Line47.jpg)
 * The hub power switch can now be tunred on (|)
 
 ##Operating the CoolTerm software
