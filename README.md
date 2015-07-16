@@ -22,7 +22,7 @@ The tutorial will deal with the software and hardware prerequisites, equipment u
 
 ##Opening and Installing FOT Probes
 >The optical cables themselves are kept in a white, Patient's Belongings bag (permanent home TBD). This bag also contains the cables that connect the probes to the data logger as well as the Serial to USB cable used to interface with the computer.
-![line25image](https://github.com/jborrel00/FOT/tree/master/hardware_pictures/Line25.jpg "Bag containing optical probes and connecting cables")
+![line25image](https://raw.githubusercontent.com/jborrel00/FOT/master/hardware_pictures/Line25.jpg "Bag containing optical probes and connecting cables")
 >The main input hub is in a black Pelican case (permanent home TBD), which also contains the power cord for the device.
 *<Add an image of case here>*
 
