@@ -16,10 +16,6 @@ The tutorial will deal with the software and hardware prerequisites, equipment u
 
 >The Luxtron FOT probes are very thin and very fragile. While they can be used in a variety of media, including water and aqueous solutions, great care must be taken to **ensure the cables are not bent excessively or placed in a substance that could be corosive or become adhered to the end of the optic probe.**
 
-### *Information Specific to Temperature Mesurement with Spinal DWI Phantom*
->For consistent temperature measurements, each probe should be inserted the same distance into the contrast-containing spheres.
->In our case, the set distance is marked off with a small piece of tape. The probe is sufficiently inserted when the tape is touching the surface of the phantom.
-
 ##Opening and Installing FOT Probes
 >The optical cables themselves are kept in a white, Patient's Belongings bag (permanent home TBD). This bag also contains the cables that connect the probes to the data logger as well as the Serial to USB cable used to interface with the computer.
 ![line25image](https://raw.githubusercontent.com/jborrel00/FOT/master/hardware_pictures/Line25.jpg "Bag containing optical probes and connecting cables")
