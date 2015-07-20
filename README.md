@@ -46,7 +46,7 @@ The tutorial will deal with the software and hardware prerequisites, equipment u
 
 ##Operating the CoolTerm software
 * navigate to the CoolTerm application and launch it
-* click on the Connection menu and select Options...
+* from the toolbar on top select Options...
 *<picture>*
 * under Serial Port Options, navigate to the Port dropdown menu and select usbserial
 *<picture>*
@@ -65,7 +65,7 @@ The tutorial will deal with the software and hardware prerequisites, equipment u
 
 * If a reading is followed by C, then the data is being collected correctly and the reading is the measured temperature in celsius.
 * If a reading is followed by PE, then there is a collection error and the data displayed is incorrect
-
+*<picture>*
 >Calibration of the FOT device may sometimes be necessary. Further information on this as well as many other CoolTerm features can be found in the CoolTerm readme, which can be opened by selecting Help from the toolbar.
 
 * To end data collection, click Disconnect in the toolbar and stop Capture to Textfile (in the same location as the button to start it)
