@@ -47,17 +47,17 @@ The tutorial will deal with the software and hardware prerequisites, equipment u
 ##Operating the CoolTerm software
 * navigate to the CoolTerm application and launch it
 * from the toolbar on top select Options...
-*<picture>*
+![line50image](https://raw.githubusercontent.com/jborrel00/FOT/master/software_pictures/Line50.jpg)
 * under Serial Port Options, navigate to the Port dropdown menu and select usbserial
-*<picture>*
+![line52image](https://raw.githubusercontent.com/jborrel00/FOT/master/software_pictures/Line52.jpg)
 * if usbserial is not an option in the dropdown menu, disconnect the Serial-USB cable and close CoolTerm. Then reconnect the cable and run CoolTerm again.
 * After selecting usbserial, click OK and return to the CoolTerm main window (no other Serial connection options need to be changed)
 * To log data in a text file, click on Connection and then select Capture to Textfile and select Start. This can also be done using command-R.
-*<picture>*
+![line56image](https://raw.githubusercontent.com/jborrel00/FOT/master/software_pictures/Line56.jpg)
 * Starting the data capture will prompt you to create a new text file where the data will be saved in a txt format.
-*<picture>*
+![line58image](https://raw.githubusercontent.com/jborrel00/FOT/master/software_pictures/Line58.jpg)
 * When the capture connection is opened, CoolTerm will not yet start logging data. In order to do that, click on the Connect button (an icon of a USB cable) in the CoolTerm toolbar.
-*<picture>*
+![line60image](https://raw.githubusercontent.com/jborrel00/FOT/master/software_pictures/Line60.jpg)
 * CoolTerm will now start collecting temperature data. This data will be displayed in CoolTerm's main terminal window and will be simultaneously captured and logged in the txt file that was created earlier.
 * The terminal readout in CoolTerm will show the measurements for each probe by displaying the number of that probe followed by the temperature reading
 
@@ -65,7 +65,7 @@ The tutorial will deal with the software and hardware prerequisites, equipment u
 
 * If a reading is followed by C, then the data is being collected correctly and the reading is the measured temperature in celsius.
 * If a reading is followed by PE, then there is a collection error and the data displayed is incorrect
-*<picture>*
+![line68image](https://raw.githubusercontent.com/jborrel00/FOT/master/software_pictures/Line60.jpg)
 >Calibration of the FOT device may sometimes be necessary. Further information on this as well as many other CoolTerm features can be found in the CoolTerm readme, which can be opened by selecting Help from the toolbar.
 
 * To end data collection, click Disconnect in the toolbar and stop Capture to Textfile (in the same location as the button to start it)
