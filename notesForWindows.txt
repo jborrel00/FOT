@@ -3,3 +3,4 @@ notes on the differences in the tutorial and CoolTerm usage between Mac and PC
 when extracting CT on PC it may begin searching for available USB ports automatically. in this case, unless there is some kind of device (ie, arduino) connected it will return an error message.
 closing that error message will allow CT to continue to open, you just won't be able to connect to and read anything
 
+maybe add some lines on the FOT connectors to better show where they line up for proper connection
