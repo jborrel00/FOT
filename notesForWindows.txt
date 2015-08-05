@@ -4,3 +4,5 @@ when extracting CT on PC it may begin searching for available USB ports automati
 closing that error message will allow CT to continue to open, you just won't be able to connect to and read anything
 
 maybe add some lines on the FOT connectors to better show where they line up for proper connection
+
+specifically mention the on-off switch is on power brick not FOT unit
