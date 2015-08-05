@@ -65,8 +65,7 @@ The tutorial will deal with the software and hardware prerequisites, equipment u
 
 * If a reading is followed by C, then the data is being collected correctly and the reading is the measured temperature in celsius.
 * If a reading is followed by PE, then there is a collection error and the data displayed is incorrect
-
-![line68image](https://raw.githubusercontent.com/jborrel00/FOT/master/software_picutres/Line68.png)
+![line68image](https://raw.githubusercontent.com/jborrel00/FOT/master/software_pictures/Line68.png)
 
 >Calibration of the FOT device may sometimes be necessary. Further information on this as well as many other CoolTerm features can be found in the CoolTerm readme, which can be opened by selecting Help from the toolbar.
 
