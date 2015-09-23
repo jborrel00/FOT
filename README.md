@@ -2,7 +2,7 @@
 ###Operation Instructions
 #####For OS X 10.7+
 
-This tutorial will walk you through the steps required to use the LumaSense Technolofies Luxtron FTO Lab Kit, CoolTerm application, and a Mac computer to collect accurate and precise temperature data for various applications.
+This tutorial will walk you through the steps required to use the LumaSense Technolofies Luxtron FOT Lab Kit, CoolTerm application, and a Mac computer to collect accurate and precise temperature data for various applications.
 
 The tutorial will deal with the software and hardware prerequisites, equipment unpacking and setup, operation of the CoolTerm software, and the logging of data to a text file that can be subsequently accessed through a number of software platforms.
 ---
@@ -13,6 +13,8 @@ The tutorial will deal with the software and hardware prerequisites, equipment u
 * Extract the files from the dowloaded zip file
 * Once extracted, the CoolTerm application can be run from the directory it was downloaded to
 * *Since Macs typically keep all applications in the Apllications folder, you may move either the entire extracted CoolTerm folder, or just the CoolTerm application to that folder on your computer. The application will run the same way.*
+
+>In some cases, you may need to download the drivers for the USB-to-Serial cable in order to properly connect to the FOT. To do this, go to [http://plugable.com/drivers/prolific] (http://plugable.com/drivers/prolific) and click on the Mac link. Once the driver files have finished downloading, run the .pkg file. You will likely need to restart your computer in order to have these changes take effect, but once the computer is rebooted, all software should run fine.
 
 >The Luxtron FOT probes are very thin and very fragile. While they can be used in a variety of media, including water and aqueous solutions, great care must be taken to **ensure the cables are not bent excessively or placed in a substance that could be corosive or become adhered to the end of the optic probe.**
 
